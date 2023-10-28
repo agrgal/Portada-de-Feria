@@ -3,6 +3,8 @@ Portada de Feria
 
 Una Situación de Aprendizaje por Aurelio Gallardo
 
+[Enlace a publicación en PROCOMÚN](https://procomun.intef.es/ode/view/es_2023102812_9082200)
+
 24-Oct-2023
 
 [Portada de Feria](https://github.com/agrgal/cursoB2) by [Aurelio Gallardo Rodríguez](https://github.com/agrgal) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
