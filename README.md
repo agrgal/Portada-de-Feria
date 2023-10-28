@@ -7,6 +7,13 @@ Una Situación de Aprendizaje por Aurelio Gallardo
 
 [Portada de Feria](https://github.com/agrgal/cursoB2) by [Aurelio Gallardo Rodríguez](https://github.com/agrgal) is licensed under [CC BY-NC-SA 4.0![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
+```{r, echo=FALSE}
+# Define variable containing url
+url <- "https://upload.wikimedia.org/wikipedia/commons/1/1f/Portada_Feria_de_Abril_2013.jpeg"
+```
+## Some cat!
+<center><img src="`r url`"></center>
+
 Temática / centro de interés: diseño de una portada para la Feria de Jerez.
 
 Nivel: Dirigido a 3º ESO
