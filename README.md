@@ -10,17 +10,17 @@ Una Situación de Aprendizaje por Aurelio Gallardo
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Portada_Feria_de_Abril_2013.jpeg/800px-Portada_Feria_de_Abril_2013.jpeg)
 [Portada Feria de Abril 2013 - User:Agustín Macías, CC BY-SA 3.0,via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portada_Feria_de_Abril_2013.jpeg)
 
-Temática / centro de interés: diseño de una portada para la Feria de Jerez.
+**Temática / centro de interés:** diseño de una portada para la Feria de Jerez.
 
-Nivel: Dirigido a 3º ESO
+**Nivel:** Dirigido a 3º ESO
 
-Secuenciación: Desarrollada durante todo el segundo y tercer trimestre, con aproximadamente cincuenta y seis sesiones.
+**Secuenciación:** Desarrollada durante todo el segundo y tercer trimestre, con aproximadamente cincuenta y seis sesiones.
 
-Materia: Tecnología y Digitalización 3º ESO.
+**Materia:** Tecnología y Digitalización 3º ESO.
 
-Idioma: español (el alumnado no participa en el proyecto bilingüe).
+**Idioma:** español (el alumnado no participa en el proyecto bilingüe).
 
-Descripción general:
+**Descripción general:**
 
 Al alumnado se le propone el siguiente rol: “Imaginamos que somos ingenieros/as de una empresa especializada en iluminación de fantasía. Diseñamos iluminaciones para Navidad, espectáculos, cabalgatas, eventos multitudinarios, ferias, etc.”
 
